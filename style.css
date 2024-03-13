@@ -58,6 +58,7 @@ body {
 .apresentacao__conteudo__titulo {
     font-size: 2.25rem;
     font-family: var(--fonte-primaria);
+    color: var(--cor-secundaria)
 }
 
 .titulo-destaque {
